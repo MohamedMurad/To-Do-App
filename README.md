@@ -1,6 +1,6 @@
 # To-Do App
 ## About
-> An Android Application, used to add, edit, finish tasks.
+> An Android Application, used to manage tasks.
 ## Application
 #### Development Prerequisites
 * Android Basics
